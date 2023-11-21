@@ -11,8 +11,8 @@ import scipy.stats as ss and from this library use .chi2_contingency
 #### List of tasks
 1. Square roots [1]
 2. Chi-Square test [2], [3]
-3. Penguins data set [4], [5], [6]
-4. Iris data set
+3. Penguins data set [4], [5], [6], [9]
+4. Iris data set [7], [8]
 5. Principal component analysis
 
 #### References 
@@ -28,6 +28,12 @@ import scipy.stats as ss and from this library use .chi2_contingency
 [5] https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.info.html accessed on 31 Oct 2023
 
 [6] https://www.hackdeploy.com/python-t-test-a-friendly-guide/ accessed on 31 Oct 2023
+
+[7] https://www.linkedin.com/pulse/data-science-tutorial-python-ambica-nandimandalam accessed 19 Nov 2023
+
+[8] https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbours-plot-classification-py accessed on 20 Nov 2022
+
+[9] https://www.statology.org/matplotlib-histogram-color/ accessed on 20 Nov 2022
 
 
 ***
