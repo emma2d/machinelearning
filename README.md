@@ -10,8 +10,6 @@ Module: Machine Learning Winter 2023/24
 Lecturer: Ian McLoughlin
 ***
 
-***
-
 This repo contains two Jupyter Notebooks, one for tasks and one for project.
 
 #### Versions installed 
@@ -148,4 +146,5 @@ Refer to project.ipynb for list of references used.
 *** 
 
 End
+
    
